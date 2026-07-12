@@ -153,7 +153,7 @@ saurabh = {
     <img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Singh-0077B5?style=flat-square&logo=linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:saurabhsinghr@gmail.com">
+  <a href="mailto:saurabhsinghqr@gmail.com">
     <img src="https://img.shields.io/badge/Email-saurabhsinghr@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
