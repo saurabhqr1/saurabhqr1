@@ -1,3 +1,4 @@
+[README (3).md](https://github.com/user-attachments/files/31555000/README.3.md)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh+Singh;Aspiring+AI+Engineer;Building+Real-World+Projects" alt="Typing SVG" />
@@ -75,6 +76,8 @@ saurabh = {
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
       <a href="https://github.com/saurabhqr1/Text-Summarization-using-HuggingFace-Model">View Repo →</a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/saurabhqr1/Text-Summarization-using-HuggingFace-Model/main/assets/demo-screenshot.png" alt="Text Summarizer demo — web UI showing a conversation input and generated summary" width="800"/>
     </td>
   </tr>
 </table>
